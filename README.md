@@ -1,2 +1,5 @@
 # Bharat-Intern--Task2--Movie-Recommendation-System
-This system is built using collaborative filtering and machine filtering techniques in Python.
+Built a movie recommendation system using collaborative filtering and 
+machine learning techniques in Python.
+
+Tech Stack: Python, Streamlit, TMDB
